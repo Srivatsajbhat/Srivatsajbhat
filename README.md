@@ -1,6 +1,11 @@
 # 💫 About Me:
 🔭 I’m currently studying on MITE Moodabidri.<br>🤝 I’m looking for help with AWS.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about anything.<br>
 
+###
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Srivatsajbhat&"
+</div>
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mr_roxxy_) 
