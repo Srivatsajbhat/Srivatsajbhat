@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently studying on MITE Moodabidri.<br>🤝 I’m looking for help with AWS.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about anything.<br>
+🔭 I’m currently studying in MITE Moodabidri.<br>🤝 I’m looking for help with AWS.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about anything.<br>
 
 ###
 <div align="center">
