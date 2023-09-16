@@ -3,7 +3,7 @@
 
 ###
 <div align="center">
-  [![GitHub Profile Views](https://github-profile-views-counter.com/profile.svg?username=Srivatsajbhat)](https://github-profile-views-counter.com/profile/Srivatsajbhat)
+  ![GitHub Profile Views](https://komarev.com/ghpvc/?username=Srivatsajbhat)
 
 </div>
 
