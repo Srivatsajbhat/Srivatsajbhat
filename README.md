@@ -3,7 +3,8 @@
 
 ###
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Srivatsajbhat"
+  [![GitHub Profile Views](https://github-profile-views-counter.com/profile.svg?username=Srivatsajbhat)](https://github-profile-views-counter.com/profile/Srivatsajbhat)
+
 </div>
 
 
